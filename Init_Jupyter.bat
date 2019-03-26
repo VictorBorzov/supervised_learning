@@ -1,0 +1,1 @@
+jupyter notebook --notebook-dir=C:\Users\victo\Documents\Cloud_stuff\jupyter_notebooks
